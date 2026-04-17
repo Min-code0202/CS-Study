@@ -2,8 +2,8 @@
 
 ## Branch Naming
 
-- 형식: `feat/{이름}/{주차}/{과목}`
-- 예시: `feat/minsu/week01/network`
+- 형식: `feat/{이름}/{챕터}/{과목}`
+- 예시: `feat/minsu/chapter01/network`
 
 ## Commit Message
 
@@ -14,5 +14,6 @@
 
 예시:
 
-- `feat: add week01 network summary`
+- `feat: add chapter01 network summary`
 - `docs: update study rules`
+
