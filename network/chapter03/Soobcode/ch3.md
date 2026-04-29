@@ -38,7 +38,7 @@ TCP, UDP 둘 다 제공하지 않는 것
 
 <br>
 
-![](img/transport.png)
+![](img/transport_segment.png)
 
 **UDP demux (비연결형)**
 
