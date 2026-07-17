@@ -1,14 +1,54 @@
 # Spring MVC
 
-## 하위 주제
+## 학습 목표
 
-- [DispatcherServlet](./01-dispatcher-servlet/README.md)
-- [Controller](./02-controller/README.md)
-- [Request Mapping](./03-request-mapping/README.md)
-- [Data Binding](./04-data-binding/README.md)
-- [HttpMessageConverter](./05-http-message-converter/README.md)
-- [Filter / Interceptor](./06-filter-interceptor/README.md)
-- [Exception Handling](./07-exception-handling/README.md)
-- [Validation](./08-validation/README.md)
-- [File Upload](./09-file-upload/README.md)
-- [MockMvc](./10-mock-mvc/README.md)
+Spring MVC의 핵심 개념을 학습합니다.
+
+## 다루는 내용
+
+- DispatcherServlet
+- Controller
+- Request Mapping
+- Data Binding
+- HttpMessageConverter
+- Filter / Interceptor
+- Exception Handling
+- Validation
+- File Upload
+- MockMvc
+
+## 작성 방법
+
+1.
+
+루트의
+
+`spring/_template.md`
+
+를 복사합니다.
+
+2.
+
+파일명을 자신의 이름 또는 GitHub ID로 변경합니다.
+
+예시
+
+`jaemin.md`
+
+3.
+
+Spring MVC에서 공부한 내용을 같은 파일 안에 계속 이어서 작성합니다.
+
+새로운 Markdown 파일을 만들지 않습니다.
+
+4.
+
+다른 스터디원의 파일은 수정하지 않습니다.
+
+## 작성 규칙
+
+- 챕터당 파일 하나를 사용합니다.
+- 질문은 같은 파일 안에 계속 추가합니다.
+- Heading으로 주제를 구분합니다.
+- 답변은 30초~1분 정도로 설명 가능한 길이로 작성합니다.
+- 주요 질문에는 꼬리질문도 함께 작성합니다.

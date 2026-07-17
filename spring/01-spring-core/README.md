@@ -1,10 +1,50 @@
 # Spring Core
 
-## 하위 주제
+## 학습 목표
 
-- [DI / IoC](./01-di-ioc/README.md)
-- [Bean](./02-bean/README.md)
-- [Bean Lifecycle](./03-bean-lifecycle/README.md)
-- [Bean Scope](./04-bean-scope/README.md)
-- [Component Scan](./05-component-scan/README.md)
-- [Spring Boot](./06-spring-boot/README.md)
+Spring Core의 핵심 개념을 학습합니다.
+
+## 다루는 내용
+
+- DI / IoC
+- Bean
+- Bean Lifecycle
+- Bean Scope
+- Component Scan
+- Spring Boot
+
+## 작성 방법
+
+1.
+
+루트의
+
+`spring/_template.md`
+
+를 복사합니다.
+
+2.
+
+파일명을 자신의 이름 또는 GitHub ID로 변경합니다.
+
+예시
+
+`jaemin.md`
+
+3.
+
+Spring Core에서 공부한 내용을 같은 파일 안에 계속 이어서 작성합니다.
+
+새로운 Markdown 파일을 만들지 않습니다.
+
+4.
+
+다른 스터디원의 파일은 수정하지 않습니다.
+
+## 작성 규칙
+
+- 챕터당 파일 하나를 사용합니다.
+- 질문은 같은 파일 안에 계속 추가합니다.
+- Heading으로 주제를 구분합니다.
+- 답변은 30초~1분 정도로 설명 가능한 길이로 작성합니다.
+- 주요 질문에는 꼬리질문도 함께 작성합니다.
